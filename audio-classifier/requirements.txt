@@ -1,0 +1,7 @@
+flask
+flask-restful
+librosa
+numpy
+numba==0.48.0
+sndfile
+noisereduce
